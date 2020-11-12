@@ -1,0 +1,10 @@
+.chart {
+  position: relative;
+  height: 20vh;
+  width: 40vw;
+}
+.chartMixed {
+  position: relative;
+  height: 20vh;
+  width: 50vw;
+}

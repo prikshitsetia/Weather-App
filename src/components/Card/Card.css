@@ -1,0 +1,14 @@
+.card {
+  background-color: #fbf7f0;
+}
+.border {
+  border: none;
+}
+.border:hover {
+  cursor: pointer;
+}
+.border:active,
+.border:focus {
+  border: none;
+  outline: none;
+}
